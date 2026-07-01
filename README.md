@@ -67,7 +67,7 @@ $$\kappa_j = \frac{1}{N} \sum_{i=1}^N \left| \frac{\partial E_z}{\partial x_{i,j
 1. **Clone the repository**:
    ```bash
    git clone [https://github.com/pamelaFranco/unsupervised-MS.git](https://github.com/pamelaFranco/unsupervised-MS.git)
-cd unsupervised-MS
+   cd unsupervised-MS
    ```
 
 2. **Install Python dependencies**:
