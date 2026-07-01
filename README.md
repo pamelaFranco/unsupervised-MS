@@ -91,6 +91,7 @@ $$\kappa_j = \frac{1}{N} \sum_{i=1}^N \left| \frac{\partial E_z}{\partial x_{i,j
 ---
 ## Citation
 
+```
 @inproceedings{franco2026unsupervised-ms-trajectories,
   title={Unsupervised Deep Embedding of Fractional Anisotropy Landscapes for Cognitive Phenotype Trajectory Mapping in Multiple Sclerosis},
   author={Montalba, Cristian and Franco, Pamela and Caulier-Cisterna, Ricardo and Cruz, Jos{\'e} P. and C{\'a}rcamo, Claudia and Andia, Marcelo E. and Ciampi, Ethel},
@@ -99,7 +100,7 @@ $$\kappa_j = \frac{1}{N} \sum_{i=1}^N \left| \frac{\partial E_z}{\partial x_{i,j
   year={2026},
   note={Submitted for publication / Under review}
 }
-
+```
 
 ---
 
