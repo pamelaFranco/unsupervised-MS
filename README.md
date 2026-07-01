@@ -107,6 +107,7 @@ $$\kappa_j = \frac{1}{N} \sum_{i=1}^N \left| \frac{\partial E_z}{\partial x_{i,j
 ## Acknowledgements
 
 This work is supported by the National Agency for Research and Development (ANID), project ICN2021_004 of the Millennium Science Initiative Program. 
+
 ---
 
 ## License
